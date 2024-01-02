@@ -1,1 +1,1 @@
-# e-commerce-django-webiste
+# decentralized-app
